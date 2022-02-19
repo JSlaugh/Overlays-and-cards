@@ -83,10 +83,6 @@ aside {
   color: #fff;
 }
 
-h2:hover {
-  color: #0087d4;
-}
-
 .button {
   background-color: var(--Button-color);
   color: #fff;
